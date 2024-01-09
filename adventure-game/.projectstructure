@@ -1,0 +1,8 @@
+game/
+|-- package.json
+|-- src/
+|   |-- game.js
+|   |-- player.js
+|   |-- items.js
+|   |-- rooms.js
+|-- index.js

@@ -1,0 +1,11 @@
+{
+    "name": "nodejs-text-adventure",
+    "version": "1.0.0",
+    "description": "A simple text-based adventure game using Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {}
+  }
+  

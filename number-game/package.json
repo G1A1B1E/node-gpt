@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-text",
+  "version": "1.0.0",
+  "description": "A simple text-based ",
+  "main": "number-game/app.js",
+  "scripts": {
+    "start": "node number-game/app.js"
+  },
+  "dependencies": {}
+}
